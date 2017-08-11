@@ -11,5 +11,5 @@
 - Push Notifications and Spring Cloud Bus
 
 # Spring Cloud Zookeeper
-- Service Discovery: instances can be registered with Zookeeper and clients can discover the instances using Spring-managed beans
-- Distributed Configuration: using Zookeeper as a data store
+- Service Discovery: instances can be registered with Zookeeper and clients can discover the instances using Spring-managed beans 服务发现：实例可以注册到 Zookeeper 同时客户端可以使用 Spring 管理的 bean 来发现这些实例
+- Distributed Configuration: using Zookeeper as a data store 分布式配置： 使用 Zookeeper 来做数据存储
