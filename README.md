@@ -10,4 +10,6 @@
 ## TODO
 - Push Notifications and Spring Cloud Bus
 
-# Spring Cloud Bus
+# Spring Cloud Zookeeper
+- Service Discovery: instances can be registered with Zookeeper and clients can discover the instances using Spring-managed beans
+- Distributed Configuration: using Zookeeper as a data store
