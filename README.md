@@ -1,6 +1,6 @@
-# gs-config
+# Spring Cloud Config
 
-## config service
+## config server / config client
 - 配置文件的优先级  
 `remote-spring.application.name.properties>remote-application.properties>local-application.properties`
 - refresh 都做了什么？  
@@ -9,3 +9,5 @@
 
 ## TODO
 - Push Notifications and Spring Cloud Bus
+
+# Spring Cloud Bus
